@@ -20,3 +20,6 @@ Higher income levels in capital cities are correlated with increased emission ra
 - Topline country data from World Bank Open Data: API Source used to pull all European countries and their descriptive data around location (latitude and longitude), capital city, and income level (all falling into “high” in respect to all other countries in the world
 - European Emissions Data from European Environment Agency: downloadable CSV providing detailed data around Emissions by country in metric tons: total emissions data, top industry drivers, type of pollutants (i.e. CO2, N2O, etc.)
 - Respiratory Health Data from World Health Organization: provides country-level data on all respiratory illnesses and mortality rates
+
+**Conclusion**
+Analyses proved that there is no relationship between latitude and longitude and emissions, and there is also no relationship between emissions and mortality rate, prompting potential for future research around lifestyle, drug and alcohol use and diet that may be contributing to increased mortality rates in some countries vs. others. 
