@@ -3,6 +3,8 @@ Project 1 collaborated by Israa Adam, Marina Connolly, Jennifer Giraldo Davila, 
 
 This project explores Emissions Rates and Mortality Rates by European countries, to see if there is a relationship between Emissions created by Energy, Manufacturing, Transportation, etc. in high income countries and the mortality rates for Respiratory diseases for the last 5 years. 
 
+In this folder, you can find our Jupyter Notebook with full cleaning and analysis, supporting CSV files, and final presentation shared with the class. 
+
 **Research Overview and Questions**
 
 Context:
