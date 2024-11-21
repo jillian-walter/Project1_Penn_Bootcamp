@@ -11,6 +11,7 @@ Context:
 Urban economic development often drives productivity and growth, but it can also contribute to increased pollution levels, affecting human health and environmental sustainability.
 Hypothesis:
 Higher income levels in capital cities are correlated with increased emission rates due to industrial and transportation activities. However, wealthier cities might also adopt more green technologies and stricter environmental regulations that reduce the overall environmental impact compared to lower-income cities. Although these cities produce more emissions, we are curious to see if that impacts higher levels of respiratory illness within its citizens.
+
 **Hypothesis:**
 Higher income levels in European capital cities are correlated with increased emission rates due to industrial and transportation activities. However, wealthier cities may offset these emissions by adopting green technologies and implementing stricter environmental regulations, potentially reducing their overall environmental impact. As a result, while emissions may be higher in wealthier cities, we hypothesize that total emissions will not necessarily correlate with increased mortality rates from respiratory illnesses, reflecting the mitigating effects of economic resources and environmental policies.
 
